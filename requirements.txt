@@ -1,6 +1,5 @@
 plotly
-streamlit
-seaborn
-matplotlib.pyplot
-sklearn.model_selection
-sklearn.ensemble
+streamlit==1.38.0
+seaborn==0.13.2
+matplotlib
+scikit-learn
