@@ -1,2 +1,6 @@
 plotly
 streamlit
+seaborn
+matplotlib.pyplot
+sklearn.model_selection
+sklearn.ensemble
